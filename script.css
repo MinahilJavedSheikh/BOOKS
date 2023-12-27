@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #6c757d;
+    margin: 0 1rem;
+}
+
+.custom-heading {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.book-list {
+    margin-top: 2rem;
+}
+
+.list-title {
+    font-size: 1.5rem;
+    color: #212529;
+}
+
+
+.form {
+    margin-top: 2rem;
+}
